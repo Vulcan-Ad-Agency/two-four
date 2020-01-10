@@ -1,0 +1,15 @@
+{
+  "name": "two-four",
+  "version": "1.0.0",
+  "description": "The website built in wordpress by creating theme and plugins from cratch\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dscratch\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u001b[2~\u001b[3~\u001b[3~\u001b[3~\u001b[\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~",
+  "main": "index.js",
+  "scripts": {
+    "test": "/test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "author": "",
+  "license": "ISC"
+}
